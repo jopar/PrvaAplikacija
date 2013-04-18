@@ -1,0 +1,4 @@
+PrvaAplikacija
+==============
+
+Samo testna aplikacija
